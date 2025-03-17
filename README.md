@@ -12,8 +12,8 @@
 <a href="https://x.com/Pratyus01479415" target="blank"><img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
 <a href="https://www.linkedin.com/in/pratyush-parida-552941264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
 <a href="https://www.instagram.com/pratyush.py3/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
-<a href="https://www.hackerrank.com/profile/pratyush.nst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kavya Katal" height="45" width="50" /></a>
-<a href="https://www.codechef.com/users/pratyush.nst" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="kavyakatal09" height="45" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/pratyush_nst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kavya Katal" height="45" width="50" /></a>
+<a href="https://www.codechef.com/users/pratyush_nst" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="kavyakatal09" height="45" width="50" /></a>
 <br><br>
 <a href="https://leetcode.com/u/pratyush_nst/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/></a>
