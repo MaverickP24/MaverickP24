@@ -93,10 +93,10 @@
 
 ## Codeforces Stats
 - **Handle:** [Pratyush Parida](https://codeforces.com/profile/pratyush.nst)
-- **Rating:** ![Current Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Rating&query=$.result[0].rating&color=blue)
-- **Max Rating:** ![Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Max%20Rating&query=$.result[0].maxRating&color=brightgreen)
-- **Rank:** ![Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Rank&query=$.result[0].rank&color=yellow)
-- **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Max%20Rank&query=$.result[0].maxRank&color=red)
+- **Rating:** ![Current Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Rating&query=$.result[0].rating&color=blue)
+- **Max Rating:** ![Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Max%20Rating&query=$.result[0].maxRating&color=brightgreen)
+- **Rank:** ![Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Rank&query=$.result[0].rank&color=yellow)
+- **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Max%20Rank&query=$.result[0].maxRank&color=red)
 
 
 <!-- Statistics Segment -->
@@ -105,10 +105,10 @@
 
 <div align="center">
     <a href="https://github.com/GAWD24">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatalKavya96&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KatalKavya96&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KatalKavya96&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatalKavya96&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAWD24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAWD24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAWD24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAWD24&theme=highcontrast" height="180em" />
     </a>
 </div>
 
