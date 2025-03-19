@@ -91,13 +91,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
 <br> 
 
-## Codeforces Stats
-- **Handle:** [Pratyush Parida](https://codeforces.com/profile/pratyush.nst)
-- **Rating:** ![Current Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Rating&query=$.result[0].rating&color=blue)
-- **Max Rating:** ![Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Max%20Rating&query=$.result[0].maxRating&color=brightgreen)
-- **Rank:** ![Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Rank&query=$.result[0].rank&color=yellow)
-- **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=GAWD24&label=Max%20Rank&query=$.result[0].maxRank&color=red)
-
 
 <!-- Statistics Segment -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
