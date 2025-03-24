@@ -22,7 +22,7 @@
 
 <!-- Live Viewer Count -->
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=KatalKavya96&style=for-the-badge" alt="KatalKavya96's Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=MaverickP24&style=for-the-badge" alt="MaverickP24's Profile Views" />
 </p>
 
 <!-- Flowing Line -->
@@ -55,25 +55,25 @@
 
 
 <a href="https://github.com/GAWD24/github-readme-stats">
-    <img width=100% src="https://github-profile-trophy.vercel.app/?username=GAWD24&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+    <img width=100% src="https://github-profile-trophy.vercel.app/?username=MaverickP4&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </a>
 
 
 
 <a href="https://github.com/GAWD24/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GAWD24&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAWD24&theme=bear&hide_border=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaverickP24&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaverickP24&theme=bear&hide_border=true" width="45%"/>
 </a>
 <br><br>
 <!-- Progress Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAWD24&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaverickP24&theme=synthwave-84&true&hide_border=true" />
   </div>
 
 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAWD24&layout=compact&theme=highcontrast" alt="Top Languages" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickP24&layout=compact&theme=highcontrast" alt="Top Languages" />
 <br><br><br>
 
 
@@ -97,11 +97,11 @@
 <h3 align="center">Statistics</h3>
 
 <div align="center">
-    <a href="https://github.com/GAWD24">
+    <a href="https://github.com/MaverickP24">
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAWD24&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAWD24&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAWD24&theme=highcontrast" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAWD24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaverickP24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaverickP24&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaverickP24&theme=highcontrast" height="180em" />
     </a>
 </div>
 
